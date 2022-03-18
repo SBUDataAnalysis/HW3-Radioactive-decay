@@ -1,6 +1,4 @@
-# Data-Modeling-Course
-This repository is primarily for homework of the course "Statistics, Probability and Data Modeling" given at Shahid Beheshti University in the winter semester 2022.
-
+# HW3-Radioactive-decay
 
 **Lecturer**: Dr. Marzieh Farhang ([m_farhang@sbu.ac.ir](mailto:m_farhang@sbu.ac.ir))
 
